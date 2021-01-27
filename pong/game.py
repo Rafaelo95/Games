@@ -81,3 +81,4 @@ class Game:
         x, y = self.paddle_b_pos
         if (y - 40) > -(self.height / 2):
             self.paddle_b_pos = (x, y - 40)
+        
