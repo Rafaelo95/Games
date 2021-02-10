@@ -1,0 +1,2 @@
+- to fix clearing the rows and getting the next shape
+- to add a feature that shows the next shape
